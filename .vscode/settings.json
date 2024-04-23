@@ -56,7 +56,7 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Jungle Run 2D.sln",
+    "dotnet.defaultSolution": "Jungle-Run-2D.sln",
     "editor.fontSize": 16,
     "files.autoSave": "afterDelay"
 }
